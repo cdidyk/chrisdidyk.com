@@ -1,0 +1,26 @@
+---
+layout: default
+title: Chris Didyk
+---
+
+<div id="home">
+  <h1>Latest Post</h1>
+  <div id="post">
+    <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
+    <p class="meta">{{ site.posts.first.date | date_to_string }}</p>
+    <p>
+      {{ site.posts.first.teaser }}
+      <a href="{{ site.posts.first.url }}">Read It</a>
+    </p>
+  </div>
+
+  <h1>Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% unless post == site.posts.first %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+
+</div>

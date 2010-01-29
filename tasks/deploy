@@ -1,0 +1,2 @@
+#!/bin/bash
+jekyll && rsync -avz --delete _site/ blog:public_html/chrisdidyk.com/public

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div id="post">
+  {{ content }}
+</div>
+
+<div class="previous_next">
+  {% if page.previous %}
+    <div class="previous">
+      <h3>Previous:</h3>
+      <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
+    </div>
+  {% endif %}
+
+  {% if page.next %}
+    <div class="next">
+      <h3>Next:</h3>
+      <a href="{{ page.next.url }}">{{ page.next.title }}</a>
+    </div>
+  {% endif %}
+</div>
