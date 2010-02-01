@@ -197,6 +197,10 @@ ul.posts {
     margin-bottom: 1em;
   }
 
+.previous_next {
+  margin-bottom: 2em;
+}
+
 .previous {
   margin-bottom: 1em;
 }
