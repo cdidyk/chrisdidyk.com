@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Rspec Routing Specs
+layout: post
 ---
-
-## Rspec Routing Specs ##
+{% include post_title.md %}
 
 I just started playing around with the rspec_scaffold generator. It seems pretty helpful, although I will still end up deleting some of the files it creates (at least until I get tired enough of it to write an automated solution). But there's an additional controller spec it creates that looks really puzzling to me. It checks routes in the following ways:
 

@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Usability? Linux?!?!?!
+layout: post
 teaser: Seeing some sort of usability touch in Kubuntu made me giddy. Even if it'd probably been there for years.
 ---
-
-## Usability? Linux?!?!?! ##
+{% include post_title.md %}
 
 I just upgraded from Kubuntu Feisty to Gutsy Gibbon. The upgrade via Adept didn't go so well, but the fresh install from a Live CD was painless. Still, Linux has come a long way from what I vaguely remember about Slackware 6 or 7 years ago.
 

@@ -1,11 +1,9 @@
 ---
-layout: post
 title: What Agile Means To Me
+layout: post
 teaser: Stop asking "Are we doing Agile?" and start asking "Is what we're doing working?" and "How can we improve it?"
 ---
-## What Agile Means To Me ##
-
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include post_title.md %}
 
 Lately, a lot of folks have been [sounding the alarm](http://jamesshore.com/Blog/The-Decline-and-Fall-of-Agile.html) about [Agile done wrong](http://www.infoq.com/news/2008/12/Agile-Skeptic-Keith-Braithwaite). I can't blame them, and having talked to people eager to adopt Agile but lacking the discipline to successfully hold daily stand-ups as their chosen first step, it's certainly a message that needs to be heard.
 

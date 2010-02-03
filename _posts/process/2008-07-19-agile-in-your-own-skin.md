@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Agile in Your Own Skin
+layout: post
 ---
-
-## Agile in Your Own Skin ##
+{% include post_title.md %}
 
 I've recently been thinking a lot about how important honesty is in an agile work environment. Sure, it's important in any environment, but I believe agile requires a level of and commitment to honesty that I haven't seen in more traditional company/software development environments. I think it's really part of the core essence of agile, one of the things that separates a team really doing and succeeding with agile from a team that just incorporates some agile practices like stand-ups and iterations.
 

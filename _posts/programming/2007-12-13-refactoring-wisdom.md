@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Refactoring Wisdom
+layout: post
 teaser: Bret Pettichord gave me some great advice on refactoring that you should probably hear, too.
 ---
-
-## Refactoring Wisdom ##
+{% include post_title.md %}
 
 A couple of days ago, my co-worker [Bret](http://www.io.com/~wazmo/blog/) said something that I thought made tremendous sense.
 

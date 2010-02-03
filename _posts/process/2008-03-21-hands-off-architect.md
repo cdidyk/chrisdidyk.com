@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Can a Hands-off Architect Work in Agile?
+layout: post
 teaser: "If you actually have an Architect on your team, should she be in the code developing or locked out of the codebase? Does the first cause her to be too close to the implementation to make the right architectural decisions?"
 ---
-
-## Can a Hands-off Architect Work in Agile? ##
+{% include post_title.md %}
 
 <p><span style="text-decoration: line-through;">At Dovetail, we're hiring a Software Architect</span>. One of the things we've debated is whether this architect needs to be in the code everyday. Our general consensus is that yes, she should.</p>
 

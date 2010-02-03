@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Law of Demeter and Nested Routes
+layout: post
 ---
-
-## Law of Demeter and Nested Routes ##
+{% include post_title.md %}
 
 I'm working on implementing my budget system as a hobby Rails app, and one of the things I've run into that I haven't visited in awhile is the age-old question: how deeply do you nest routes?
 

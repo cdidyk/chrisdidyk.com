@@ -1,9 +1,8 @@
 ---
-layout: post
 title: A Recent Refactoring
+layout: post
 ---
-
-## A Recent Refactoring ##
+{% include post_title.md %}
 
 Recently, while working on the rails version of my personal budget
 system, I came across an interesting problem. I'll share the

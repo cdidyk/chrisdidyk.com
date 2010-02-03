@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Iterations, Projects, and Bruce Lee
+layout: post
 ---
-
-## Iterations, Projects, and Bruce Lee ##
+{% include post_title.md %}
 
 > "It's like a finger pointing to the moon. Don't look at the finger or you miss all that heavenly glory."-Bruce Lee, _Enter the Dragon_
 
