@@ -161,6 +161,14 @@ ul.posts {
     overflow: auto;
   }
 
+  #post blockquote {
+    background-color: #eef;
+    font-size: 105%;
+    font-style: italic;
+    padding: .5em;
+    text-align: center;
+  }
+
   #post ul,
   #post ol {
     margin-left: 1.25em;
