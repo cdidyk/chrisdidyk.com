@@ -1,11 +1,9 @@
 ---
-layout: post
+title: Condensing Mocks in RSpec
 teaser: "KungFuMaster.stub!(:find).and_return @drunken_master = stub_model(KungFuMaster)"
+layout: post
 ---
-
-## Condensing Mocks in RSpec ##
-
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include post_title.md %}
 
 Check out this RSpec `before` block and its variants:
 

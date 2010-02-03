@@ -1,12 +1,9 @@
 ---
-layout: post
 title: Thoughts On Pairing
 teaser: Pairing as the dumbest guy in the room is fantastic. It can also be frustrating.
+layout: post
 ---
-
-## Thoughts On Pairing ##
-
-{% include post_metadata.md %}
+{% include post_title.md %}
 
 I recently gained new insights from pairing with developers of varying skill levels. While I've always been a big believer in finding good mentors and working with the best people I can find, I now have a greater appreciation of the benefits of pairing with someone of the same skill level as me.
 

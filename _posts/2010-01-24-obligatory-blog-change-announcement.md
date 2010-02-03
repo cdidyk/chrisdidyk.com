@@ -1,9 +1,8 @@
 ---
+title: Obligatory Blog Change Announcement
 layout: post
 ---
-## Obligatory Blog Change Announcement ##
-
-<p class="meta">{{ page.date | date_to_string }}</p>
+{% include post_title.md %}
 
 So I switched to [Jekyll](http://github.com/mojombo/jekyll). Oh, yeah, and I'm blogging again.
 

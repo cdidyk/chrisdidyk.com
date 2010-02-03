@@ -1,10 +1,9 @@
 ---
-layout: post
 title: ALT.NET Conference - Architecture Session
+layout: post
 teaser: I don't know much about software architecture. But I'm smart enough to shut up and listen when people like Martin Fowler talk about it.
 ---
-
-## ALT.NET Conference - Architecture Session ##
+{% include post_title.md %}
 
 The second session I went to was on current software architecture. I don't know very much about enterprise architecture and I've had my head buried in Ruby on Rails code for the past few months -that's exactly why I went to this session!
 
